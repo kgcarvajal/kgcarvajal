@@ -1,8 +1,8 @@
  👋 Hi, I’m Kenny Carvajal! 
 
- 👨🏽‍💻 Data Scientist 
- 👨🏽‍🎓 Studied Computer Science at New York University 
- 💭 Currently learning about financial engineering 
+ 👨🏽‍💻 Data Scientist<br/>
+ 👨🏽‍🎓 Studied Computer Science at New York University<br/> 
+ 💭 Currently learning about financial engineering<br/> 
 
 <!---
 kgcarvajal/kgcarvajal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
