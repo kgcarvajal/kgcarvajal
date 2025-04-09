@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Kenny Carvajal!
-👨🏽‍💻 Data Scientist <br>👨🏽‍🎓 Studied Computer Science at New York University <br>💭 Currently Learning about financial engineering
+👨🏽‍💻 Data Scientist <br>👨🏽‍🎓 Studied Computer Science at New York University <br>💭 Currently Building BlackOpsBasketball
 
 
 ## 🌐 Socials
